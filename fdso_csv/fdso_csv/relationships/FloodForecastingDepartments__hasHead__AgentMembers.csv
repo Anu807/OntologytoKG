@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+FFD_01,FloodForecastingDepartments,hasHead,Member_01,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_02,FloodForecastingDepartments,hasHead,Member_02,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_03,FloodForecastingDepartments,hasHead,Member_03,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_04,FloodForecastingDepartments,hasHead,Member_04,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_05,FloodForecastingDepartments,hasHead,Member_05,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_06,FloodForecastingDepartments,hasHead,Member_06,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_07,FloodForecastingDepartments,hasHead,Member_07,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_08,FloodForecastingDepartments,hasHead,Member_08,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_09,FloodForecastingDepartments,hasHead,Member_09,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+FFD_10,FloodForecastingDepartments,hasHead,Member_10,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead

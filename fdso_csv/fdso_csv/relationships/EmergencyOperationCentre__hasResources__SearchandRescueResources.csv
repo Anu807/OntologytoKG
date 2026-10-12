@@ -1,0 +1,14 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+EOC_01,EmergencyOperationCentre,hasResources,Resource_01,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_02,EmergencyOperationCentre,hasResources,Resource_02,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_03,EmergencyOperationCentre,hasResources,Resource_03,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_04,EmergencyOperationCentre,hasResources,Resource_04,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_05,EmergencyOperationCentre,hasResources,Resource_05,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_06,EmergencyOperationCentre,hasResources,Resource_06,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_07,EmergencyOperationCentre,hasResources,Resource_07,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_08,EmergencyOperationCentre,hasResources,Resource_08,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_09,EmergencyOperationCentre,hasResources,Resource_09,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_10,EmergencyOperationCentre,hasResources,Resource_10,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_01,EmergencyOperationCentre,hasResources,Resource_05,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_03,EmergencyOperationCentre,hasResources,Resource_07,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources
+EOC_05,EmergencyOperationCentre,hasResources,Resource_09,SearchandRescueResources,isResourceOf,https://w3id.org/fdso/#hasResources

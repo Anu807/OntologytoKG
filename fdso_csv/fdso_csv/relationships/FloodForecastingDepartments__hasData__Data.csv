@@ -1,0 +1,14 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+FFD_01,FloodForecastingDepartments,hasData,Data_01,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_02,FloodForecastingDepartments,hasData,Data_02,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_03,FloodForecastingDepartments,hasData,Data_03,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_04,FloodForecastingDepartments,hasData,Data_04,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_05,FloodForecastingDepartments,hasData,Data_05,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_06,FloodForecastingDepartments,hasData,Data_06,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_07,FloodForecastingDepartments,hasData,Data_07,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_08,FloodForecastingDepartments,hasData,Data_08,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_09,FloodForecastingDepartments,hasData,Data_09,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_10,FloodForecastingDepartments,hasData,Data_10,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_01,FloodForecastingDepartments,hasData,Data_04,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_02,FloodForecastingDepartments,hasData,Data_05,Data,isDataWith,https://w3id.org/fdso/#hasData
+FFD_03,FloodForecastingDepartments,hasData,Data_06,Data,isDataWith,https://w3id.org/fdso/#hasData

@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Member_11,AgentMembers,isMemberOf,Ministry_01,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_12,AgentMembers,isMemberOf,Ministry_02,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_13,AgentMembers,isMemberOf,Ministry_03,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_14,AgentMembers,isMemberOf,Ministry_04,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_15,AgentMembers,isMemberOf,Ministry_05,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_16,AgentMembers,isMemberOf,Ministry_06,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_17,AgentMembers,isMemberOf,Ministry_07,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_18,AgentMembers,isMemberOf,Ministry_08,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_19,AgentMembers,isMemberOf,Ministry_09,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf
+Member_20,AgentMembers,isMemberOf,Ministry_10,StateMinistry,hasMember,https://w3id.org/fdso/#isMemberOf

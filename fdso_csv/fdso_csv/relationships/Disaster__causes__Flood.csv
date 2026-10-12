@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Disaster_01,Disaster,causes,Flood_01,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_02,Disaster,causes,Flood_02,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_03,Disaster,causes,Flood_03,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_04,Disaster,causes,Flood_04,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_05,Disaster,causes,Flood_05,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_06,Disaster,causes,Flood_06,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_07,Disaster,causes,Flood_07,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_08,Disaster,causes,Flood_08,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_09,Disaster,causes,Flood_09,Flood,isCausedBy,https://w3id.org/fdso/#causes
+Disaster_10,Disaster,causes,Flood_10,Flood,isCausedBy,https://w3id.org/fdso/#causes

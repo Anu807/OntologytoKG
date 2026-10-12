@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Task_01,SearchandRescueTasks,isPerformedFor,Flood_01,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_02,SearchandRescueTasks,isPerformedFor,Flood_02,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_03,SearchandRescueTasks,isPerformedFor,Flood_03,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_04,SearchandRescueTasks,isPerformedFor,Flood_04,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_05,SearchandRescueTasks,isPerformedFor,Flood_05,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_06,SearchandRescueTasks,isPerformedFor,Flood_06,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_07,SearchandRescueTasks,isPerformedFor,Flood_07,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_08,SearchandRescueTasks,isPerformedFor,Flood_08,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_09,SearchandRescueTasks,isPerformedFor,Flood_09,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor
+Task_10,SearchandRescueTasks,isPerformedFor,Flood_10,Flood,requirePerformanceOf,https://w3id.org/fdso/#isPerformedFor

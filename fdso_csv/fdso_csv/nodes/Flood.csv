@@ -1,0 +1,11 @@
+id,label,AffectedArea,GeographicAreaType,HasEndDateAndTime,HasStartDateAndTime,Latitude,Longitude,NumberOfDistrictsAffected,NumberOfWardsAffected,TotalDamage
+Flood_01,Flood event 01 (heavy rainfall),Nandi Vihar Taluk,Urban,2024-10-15T01:00:00,2024-10-14T01:00:00,12.850937,77.482327,3,4,57900000
+Flood_02,Flood event 02 (lake overflow),Kaveri Nagar Taluk,Urban,2024-10-13T20:00:00,2024-10-10T20:00:00,12.888855,77.508616,1,7,5100000
+Flood_03,Flood event 03 (blocked storm drains),Hosahalli Taluk,Urban,2024-07-23T10:00:00,2024-07-22T10:00:00,12.91229,77.530321,2,28,27900000
+Flood_04,Flood event 04 (reservoir release),Sarovara Taluk,Urban,2024-07-25T13:00:00,2024-07-22T13:00:00,12.940635,77.558816,2,36,26200000
+Flood_05,Flood event 05 (cloudburst),Mallige Pura Taluk,Urban,2024-10-26T16:00:00,2024-10-25T16:00:00,12.975989,77.584886,1,26,85600000
+Flood_06,Flood event 06 (encroached drainage channel),Thoppu Gate Taluk,Urban,2024-09-24T20:00:00,2024-09-22T20:00:00,13.004381,77.610176,1,18,23500000
+Flood_07,Flood event 07 (embankment breach),Kere Halli Taluk,Urban,2024-09-10T15:00:00,2024-09-08T15:00:00,13.031904,77.630969,2,25,43800000
+Flood_08,Flood event 08 (river overflow),Banashree Layout Taluk,Urban,2024-06-26T07:00:00,2024-06-25T07:00:00,13.064064,77.659814,2,6,17300000
+Flood_09,Flood event 09 (impervious surface runoff),Gudda Pete Taluk,Urban,2024-10-05T07:00:00,2024-10-03T07:00:00,13.091199,77.688903,1,40,61300000
+Flood_10,Flood event 10 (storm surge backwater),Neelagiri Taluk,Urban,2024-10-09T16:00:00,2024-10-07T16:00:00,13.121325,77.70849,1,18,38300000

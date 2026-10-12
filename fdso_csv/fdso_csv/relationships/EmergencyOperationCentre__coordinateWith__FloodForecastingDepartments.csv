@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+EOC_01,EmergencyOperationCentre,coordinateWith,FFD_02,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_02,EmergencyOperationCentre,coordinateWith,FFD_03,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_03,EmergencyOperationCentre,coordinateWith,FFD_04,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_04,EmergencyOperationCentre,coordinateWith,FFD_05,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_05,EmergencyOperationCentre,coordinateWith,FFD_06,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_06,EmergencyOperationCentre,coordinateWith,FFD_07,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_07,EmergencyOperationCentre,coordinateWith,FFD_08,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_08,EmergencyOperationCentre,coordinateWith,FFD_09,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_09,EmergencyOperationCentre,coordinateWith,FFD_10,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith
+EOC_10,EmergencyOperationCentre,coordinateWith,FFD_01,FloodForecastingDepartments,coordinateWith,https://w3id.org/fdso/#coordinateWith

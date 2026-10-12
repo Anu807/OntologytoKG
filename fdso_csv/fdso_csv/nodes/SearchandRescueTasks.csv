@@ -1,0 +1,11 @@
+id,label,EstimatedTime,HasEndDateAndTime,HasStartDateAndTime,Latitude,LevelOfAgentsInvolved,Longitude,NumberOfTeamsDeployed,TotalNumberofVictimsSupported,TypeOfAgentsInvolved
+Task_01,Boat lifting victim,2 hours,2024-09-19T11:00:00,2024-09-19T08:00:00,12.856981,District,77.482779,4,250,Local police
+Task_02,Evacuation of marooned residents,6 hours,2024-07-04T17:00:00,2024-07-04T12:00:00,12.886357,District,77.506627,6,58,Local police
+Task_03,Rooftop rescue,4 hours,2024-09-13T18:00:00,2024-09-13T14:00:00,12.911396,Local,77.535614,5,196,Civil defence volunteers
+Task_04,Medical evacuation,6 hours,2024-06-22T21:00:00,2024-06-22T17:00:00,12.941116,District,77.556582,1,249,Local police
+Task_05,Relief camp transfer,9 hours,2024-10-03T04:00:00,2024-10-03T02:00:00,12.97978,Local,77.587658,3,173,Civil defence volunteers
+Task_06,Underpass rescue,5 hours,2024-10-08T20:00:00,2024-10-08T18:00:00,13.00071,Local,77.605589,2,236,Fire and emergency services
+Task_07,Animal rescue,7 hours,2024-06-02T14:00:00,2024-06-02T12:00:00,13.032487,State,77.635363,3,113,Disaster response force
+Task_08,Elderly assisted evacuation,10 hours,2024-09-10T18:00:00,2024-09-10T13:00:00,13.061548,District,77.657177,1,153,Fire and emergency services
+Task_09,School building evacuation,7 hours,2024-10-19T20:00:00,2024-10-19T16:00:00,13.092043,Local,77.683142,5,106,Disaster response force
+Task_10,Debris-site search,2 hours,2024-08-20T20:00:00,2024-08-20T16:00:00,13.129318,State,77.714389,3,72,Fire and emergency services

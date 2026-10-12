@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Disaster_01,Disaster,hasNodalAgent,EOC_01,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_02,Disaster,hasNodalAgent,EOC_02,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_03,Disaster,hasNodalAgent,EOC_03,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_04,Disaster,hasNodalAgent,EOC_04,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_05,Disaster,hasNodalAgent,EOC_05,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_06,Disaster,hasNodalAgent,EOC_06,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_07,Disaster,hasNodalAgent,EOC_07,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_08,Disaster,hasNodalAgent,EOC_08,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_09,Disaster,hasNodalAgent,EOC_09,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent
+Disaster_10,Disaster,hasNodalAgent,EOC_10,EmergencyOperationCentre,isNodalAgentOf,https://w3id.org/fdso/#hasNodalAgent

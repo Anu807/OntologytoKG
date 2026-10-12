@@ -1,0 +1,11 @@
+id,label,AvailableTimePeriod,ContactPerson,Email,PhoneNumber,ResourceAddress,ResourceCode,ResourceDepartmentAffiliation,ResourceLocation,ResourceQuantity,ResourceShelfLife,ResourceSource
+Resource_01,Life jacket,24x7,Suresh Gowda,res01@fdso-demo.example.org,+91-80-5552-2000,"Store 1, Depot Road, Bengaluru 560020",SAR-LJ-100,Bengaluru City EOC Stores,Depot A,150,10 years,State stock
+Resource_02,Inflatable rescue boat,08:00-20:00,Pooja Reddy,res02@fdso-demo.example.org,+91-80-5552-2009,"Store 2, Depot Road, Bengaluru 560021",SAR-IRB-101,Bengaluru North EOC Stores,Depot B,10,8 years,State stock
+Resource_03,Rescue rope kit,24x7,Harish Kulkarni,res03@fdso-demo.example.org,+91-80-5552-2018,"Store 3, Depot Road, Bengaluru 560022",SAR-RRK-102,Bengaluru South EOC Stores,Depot C,10,8 years,State stock
+Resource_04,Life buoy,08:00-20:00,Nandini Rao,res04@fdso-demo.example.org,+91-80-5552-2027,"Store 4, Depot Road, Bengaluru 560023",SAR-LB-103,Bengaluru East EOC Stores,Depot D,300,3 years,Donated
+Resource_05,Submersible dewatering pump,06:00-22:00,Vikram Shetty,res05@fdso-demo.example.org,+91-80-5552-2036,"Store 5, Depot Road, Bengaluru 560024",SAR-DWP-104,Bengaluru West EOC Stores,Depot E,10,3 years,State stock
+Resource_06,Portable generator,24x7,Shalini Iyer,res06@fdso-demo.example.org,+91-80-5552-2045,"Store 6, Depot Road, Bengaluru 560025",SAR-PGN-105,Anekal Zone EOC Stores,Depot F,20,3 years,Donated
+Resource_07,Floodlight tower,06:00-22:00,Manoj Bhat,res07@fdso-demo.example.org,+91-80-5552-2054,"Store 7, Depot Road, Bengaluru 560026",SAR-FLT-106,Yelahanka Zone EOC Stores,Depot G,40,3 years,Donated
+Resource_08,Satellite phone,06:00-22:00,Rekha Nair,res08@fdso-demo.example.org,+91-80-5552-2063,"Store 8, Depot Road, Bengaluru 560027",SAR-SAT-107,Mahadevapura Zone EOC Stores,Depot H,5,10 years,Procured
+Resource_09,Rescue drone,24x7,Prakash Hegde,res09@fdso-demo.example.org,+91-80-5552-2072,"Store 9, Depot Road, Bengaluru 560028",SAR-DRN-108,Bommanahalli Zone EOC Stores,Depot I,75,3 years,Procured
+Resource_10,First aid trauma kit,06:00-22:00,Sunita Patil,res10@fdso-demo.example.org,+91-80-5552-2081,"Store 10, Depot Road, Bengaluru 560029",SAR-FAK-109,Rajarajeshwari Zone EOC Stores,Depot J,10,10 years,Donated

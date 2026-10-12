@@ -1,0 +1,14 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Flood_01,Flood,hasLocation,Taluk_01,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_02,Flood,hasLocation,Taluk_02,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_03,Flood,hasLocation,Taluk_03,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_04,Flood,hasLocation,Taluk_04,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_05,Flood,hasLocation,Taluk_05,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_06,Flood,hasLocation,Taluk_06,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_07,Flood,hasLocation,Taluk_07,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_08,Flood,hasLocation,Taluk_08,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_09,Flood,hasLocation,Taluk_09,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_10,Flood,hasLocation,Taluk_10,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_01,Flood,hasLocation,Taluk_02,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_04,Flood,hasLocation,Taluk_05,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation
+Flood_07,Flood,hasLocation,Taluk_08,Taluks,isLocationOf,https://w3id.org/fdso/#hasLocation

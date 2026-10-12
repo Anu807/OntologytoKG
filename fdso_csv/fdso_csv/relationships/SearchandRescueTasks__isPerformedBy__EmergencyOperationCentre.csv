@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Task_01,SearchandRescueTasks,isPerformedBy,EOC_01,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_02,SearchandRescueTasks,isPerformedBy,EOC_02,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_03,SearchandRescueTasks,isPerformedBy,EOC_03,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_04,SearchandRescueTasks,isPerformedBy,EOC_04,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_05,SearchandRescueTasks,isPerformedBy,EOC_05,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_06,SearchandRescueTasks,isPerformedBy,EOC_06,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_07,SearchandRescueTasks,isPerformedBy,EOC_07,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_08,SearchandRescueTasks,isPerformedBy,EOC_08,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_09,SearchandRescueTasks,isPerformedBy,EOC_09,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy
+Task_10,SearchandRescueTasks,isPerformedBy,EOC_10,EmergencyOperationCentre,performs,https://w3id.org/fdso/#isPerformedBy

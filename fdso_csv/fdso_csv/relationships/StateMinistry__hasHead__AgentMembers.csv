@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Ministry_01,StateMinistry,hasHead,Member_11,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_02,StateMinistry,hasHead,Member_12,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_03,StateMinistry,hasHead,Member_13,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_04,StateMinistry,hasHead,Member_14,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_05,StateMinistry,hasHead,Member_15,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_06,StateMinistry,hasHead,Member_16,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_07,StateMinistry,hasHead,Member_17,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_08,StateMinistry,hasHead,Member_18,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_09,StateMinistry,hasHead,Member_19,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead
+Ministry_10,StateMinistry,hasHead,Member_20,AgentMembers,isHeadOf,https://w3id.org/fdso/#hasHead

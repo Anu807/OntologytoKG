@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Task_01,SearchandRescueTasks,requiresData,Data_06,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_02,SearchandRescueTasks,requiresData,Data_07,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_03,SearchandRescueTasks,requiresData,Data_08,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_04,SearchandRescueTasks,requiresData,Data_09,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_05,SearchandRescueTasks,requiresData,Data_10,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_06,SearchandRescueTasks,requiresData,Data_01,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_07,SearchandRescueTasks,requiresData,Data_02,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_08,SearchandRescueTasks,requiresData,Data_03,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_09,SearchandRescueTasks,requiresData,Data_04,Data,isDataFor,https://w3id.org/fdso/#requiresData
+Task_10,SearchandRescueTasks,requiresData,Data_05,Data,isDataFor,https://w3id.org/fdso/#requiresData

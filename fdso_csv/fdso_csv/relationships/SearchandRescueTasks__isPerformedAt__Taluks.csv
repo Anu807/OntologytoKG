@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+Task_01,SearchandRescueTasks,isPerformedAt,Taluk_01,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_02,SearchandRescueTasks,isPerformedAt,Taluk_02,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_03,SearchandRescueTasks,isPerformedAt,Taluk_03,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_04,SearchandRescueTasks,isPerformedAt,Taluk_04,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_05,SearchandRescueTasks,isPerformedAt,Taluk_05,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_06,SearchandRescueTasks,isPerformedAt,Taluk_06,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_07,SearchandRescueTasks,isPerformedAt,Taluk_07,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_08,SearchandRescueTasks,isPerformedAt,Taluk_08,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_09,SearchandRescueTasks,isPerformedAt,Taluk_09,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt
+Task_10,SearchandRescueTasks,isPerformedAt,Taluk_10,Taluks,hasPerformanceOf,https://w3id.org/fdso/#isPerformedAt

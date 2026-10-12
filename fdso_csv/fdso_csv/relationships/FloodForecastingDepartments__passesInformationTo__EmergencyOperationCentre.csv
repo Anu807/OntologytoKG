@@ -1,0 +1,11 @@
+source_id,source_class,relationship,target_id,target_class,inverse_relationship,property_iri
+FFD_01,FloodForecastingDepartments,passesInformationTo,EOC_01,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_02,FloodForecastingDepartments,passesInformationTo,EOC_02,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_03,FloodForecastingDepartments,passesInformationTo,EOC_03,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_04,FloodForecastingDepartments,passesInformationTo,EOC_04,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_05,FloodForecastingDepartments,passesInformationTo,EOC_05,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_06,FloodForecastingDepartments,passesInformationTo,EOC_06,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_07,FloodForecastingDepartments,passesInformationTo,EOC_07,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_08,FloodForecastingDepartments,passesInformationTo,EOC_08,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_09,FloodForecastingDepartments,passesInformationTo,EOC_09,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo
+FFD_10,FloodForecastingDepartments,passesInformationTo,EOC_10,EmergencyOperationCentre,passesInformationTo,https://w3id.org/fdso/#passesInformationTo

@@ -1,0 +1,11 @@
+id,label,GeographicAreaCoverage,GeographicAreaType,GovernmentType,Latitude,Longitude,Name,NumberOfBuildings,NumberofResedentialZones,PopulationDensity
+Taluk_01,Nandi Vihar Taluk,407 sq km,Taluk,Taluk administration,12.851113,77.487416,Nandi Vihar Taluk,52098,22,4786 per sq km
+Taluk_02,Kaveri Nagar Taluk,132 sq km,Taluk,Taluk administration,12.880927,77.505967,Kaveri Nagar Taluk,65082,24,3211 per sq km
+Taluk_03,Hosahalli Taluk,411 sq km,Taluk,Taluk administration,12.910714,77.53635,Hosahalli Taluk,52087,18,10073 per sq km
+Taluk_04,Sarovara Taluk,378 sq km,Taluk,Taluk administration,12.943994,77.557193,Sarovara Taluk,38131,40,10585 per sq km
+Taluk_05,Mallige Pura Taluk,336 sq km,Taluk,Taluk administration,12.97762,77.585077,Mallige Pura Taluk,33947,27,12968 per sq km
+Taluk_06,Thoppu Gate Taluk,361 sq km,Taluk,Taluk administration,13.001651,77.610277,Thoppu Gate Taluk,75461,21,11335 per sq km
+Taluk_07,Kere Halli Taluk,249 sq km,Taluk,Taluk administration,13.030709,77.63238,Kere Halli Taluk,83624,21,11334 per sq km
+Taluk_08,Banashree Layout Taluk,222 sq km,Taluk,Taluk administration,13.064626,77.663745,Banashree Layout Taluk,29880,36,11516 per sq km
+Taluk_09,Gudda Pete Taluk,240 sq km,Taluk,Taluk administration,13.090572,77.685842,Gudda Pete Taluk,85909,18,3431 per sq km
+Taluk_10,Neelagiri Taluk,410 sq km,Taluk,Taluk administration,13.123,77.708162,Neelagiri Taluk,29508,8,10008 per sq km

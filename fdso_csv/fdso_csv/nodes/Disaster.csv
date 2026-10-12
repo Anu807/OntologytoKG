@@ -1,0 +1,11 @@
+id,label,AffectedArea,GeographicAreaType,Latitude,Longitude,NumberOfDistrictsAffected,NumberOfWardsAffected
+Disaster_01,Urban flood disaster 01,Nandi Vihar Taluk,Urban,12.857365,77.486767,3,8
+Disaster_02,Urban flood disaster 02,Kaveri Nagar Taluk,Urban,12.887297,77.510362,2,8
+Disaster_03,Urban flood disaster 03,Hosahalli Taluk,Urban,12.913795,77.539895,3,38
+Disaster_04,Urban flood disaster 04,Sarovara Taluk,Urban,12.940909,77.555471,1,12
+Disaster_05,Urban flood disaster 05,Mallige Pura Taluk,Urban,12.975077,77.581989,2,13
+Disaster_06,Urban flood disaster 06,Thoppu Gate Taluk,Urban,13.007553,77.611899,3,22
+Disaster_07,Urban flood disaster 07,Kere Halli Taluk,Urban,13.031323,77.639355,3,39
+Disaster_08,Urban flood disaster 08,Banashree Layout Taluk,Urban,13.060979,77.661521,3,3
+Disaster_09,Urban flood disaster 09,Gudda Pete Taluk,Urban,13.099608,77.680801,1,7
+Disaster_10,Urban flood disaster 10,Neelagiri Taluk,Urban,13.126212,77.71063,1,7
